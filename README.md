@@ -3,14 +3,17 @@
 GHost One Bot Score Html
 ![Screenshot](https://github.com/Slyhark/Warcraft-III-Bot-Score/blob/main/en.png)
 
-TRIGGER MARIADB:
-MY CODE EXAMPLE:
-WHERE: 
-VICTORY: 50 POINTS  
-LOSE: 10 POINTS
+## TRIGGER MARIADB
 
-//*******************************************************************  
-//*******************************************************************  
+### MY CODE EXAMPLE
+
+#### WHERE:
+- VICTORY: 50 POINTS  
+- LOSE: 10 POINTS
+
+//*******************************************************************
+
+//*******************************************************************
 
 
 
